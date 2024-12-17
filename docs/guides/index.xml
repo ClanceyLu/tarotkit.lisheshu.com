@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>文档 on TarotKit</title><link>/docs/guides/</link><description>Recent content in 文档 on TarotKit</description><generator>Hugo</generator><language>zh</language><copyright>Copyright (c) 2020-2024 Thulite</copyright><lastBuildDate>Thu, 07 Sep 2023 16:04:48 +0200</lastBuildDate><atom:link href="/docs/guides/index.xml" rel="self" type="application/rss+xml"/><item><title>使用指南</title><link>/docs/guides/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</link><pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate><guid>/docs/guides/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</guid><description>&lt;p>欢迎使用 &lt;em>TarotKit&lt;/em>！本指南将带您了解如何使用应用进行塔罗占卜，探索心灵的指引与智慧。&lt;/p>
+&lt;hr>
+&lt;h3 id="1-打开菜单">1. 打开菜单&lt;/h3>
+&lt;p>在首页，您可以通过以下两种方式打开菜单：&lt;/p>
+&lt;ul>
+&lt;li>左滑屏幕&lt;/li>
+&lt;li>点击左下角的菜单图标&lt;/li>
+&lt;/ul>
+&lt;h4 id="菜单功能">菜单功能：&lt;/h4>
+&lt;ul>
+&lt;li>查看牌阵：浏览可用的牌阵，选择您喜欢的默认牌阵。&lt;/li>
+&lt;li>塔罗牌图鉴：查看所有塔罗牌的图鉴及详细信息。&lt;/li>
+&lt;li>设置：更改主题风格、语言偏好，或自定义主页背景颜色。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="2-选择占卜牌阵">2. 选择占卜牌阵&lt;/h3>
+&lt;p>在首页的 &lt;strong>右下角&lt;/strong>，点击 &lt;strong>选取牌阵&lt;/strong> 按钮，选择您想使用的占卜牌阵。&lt;/p>
+&lt;ul>
+&lt;li>如果未更改，默认会使用 &lt;strong>默认牌阵&lt;/strong>。&lt;/li>
+&lt;/ul>
+&lt;h4 id="步骤">步骤：&lt;/h4>
+&lt;ol>
+&lt;li>选择牌阵后，点击 &lt;strong>开始&lt;/strong>。&lt;/li>
+&lt;li>牌堆会自动洗牌，然后在屏幕上横向展开，等待您切牌。&lt;/li>
+&lt;li>切牌与抽牌&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h3 id="3-切牌与抽牌">3. 切牌与抽牌&lt;/h3>
+&lt;h5 id="切牌">切牌&lt;/h5>
+&lt;p>洗牌后，牌堆展开，您可以滑动牌堆并 &lt;strong>旋转展开的牌&lt;/strong>，寻找最有感觉的位置。&lt;/p></description></item></channel></rss>
